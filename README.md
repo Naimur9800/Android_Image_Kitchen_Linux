@@ -1,2 +1,6 @@
-# Android_Image_Kitchen_Linux
-TooL for Unpack/Repack Boot,Recovery IMAGEs
+# Run Terminal         
+
+- $ ./unpack* image_name    { This will unpack Image }
+
+
+- $ ./repack* image_name    { This will repack Image }
